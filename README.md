@@ -11,6 +11,7 @@ My journey in the world of networking has led me to develop a deep passion for c
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Home Lab                                      | <a href="https://github.com/Terrell-Jefferson/Home-Lab">Home Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -52,5 +53,6 @@ My journey in the world of networking has led me to develop a deep passion for c
 </div>
 
 ## Projects
+- <a href="https://github.com/Terrell-Jefferson/Home-Lab">Home Lab</a>
 - Detection Lab
 - SOC Automation Project
