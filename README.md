@@ -41,7 +41,6 @@ My journey in the world of networking has led me to develop a deep passion for c
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
   <a href="https://www.credly.com/badges/92676c85-8d71-419b-a568-95cce6bcef1a/public_url" target="_blank">
     <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
